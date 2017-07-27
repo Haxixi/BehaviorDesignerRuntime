@@ -1,0 +1,6 @@
+D:\BehaviorDesignerRuntime\bin\Release\BehaviorDesignerRuntime.dll
+D:\BehaviorDesignerRuntime\bin\Release\BehaviorDesignerRuntime.pdb
+D:\BehaviorDesignerRuntime\bin\Release\UnityEditor.dll
+D:\BehaviorDesignerRuntime\bin\Release\UnityEngine.dll
+D:\BehaviorDesignerRuntime\obj\Release\BehaviorDesignerRuntime.dll
+D:\BehaviorDesignerRuntime\obj\Release\BehaviorDesignerRuntime.pdb
